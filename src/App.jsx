@@ -70,7 +70,7 @@ function App() {
           <Heading>Refleksjon</Heading>
 
           <FlexBox flexDirection="row" width="90%" justifyContent="space-evenly" alignItems="center">
-            <Text>Det var ikke så mye å gjøre siden vi ikke var i en eksamensperiode. Ikke så mange som jobber der. Fint sosialt miljø, kan være et greit sted å søke.</Text>
+            <Text>Det var ikke så mye å gjøre siden vi ikke var i en eksamensperiode. Det er få ansatte. Fint sosialt miljø, kan være et greit sted å søke.</Text>
             <Image src={pultSluppen} alt="Bilde av pc rack hvor jeg satte pc-ene på lading" width="35%" />
           </FlexBox>
 
@@ -137,7 +137,7 @@ function App() {
           <UnorderedList>
 
             <Appear>
-              <ListItem>Fikk en guide av noen av rettssalene.</ListItem>
+              <ListItem>Fikk en omvisning av noen av rettssalene.</ListItem>
             </Appear>
 
             <Appear>
